@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile Info</string>
+
+    <string name="facebook_application_id" translatable="false">403648060886945</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb403648060886945</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
